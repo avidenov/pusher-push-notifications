@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/pusher-push-notifications",
+    "name": "avidenov/pusher-push-notifications",
     "description": "Pusher native Push Notifications driver.",
     "keywords": [
         "pusher-push-notifications",
@@ -7,7 +7,7 @@
         "pusher",
         "notifications"
     ],
-    "homepage": "https://github.com/LaravelNotificationChannels/pusher-push-notifications",
+    "homepage": "https://github.com/avidenov/pusher-push-notifications",
     "license": "MIT",
     "authors": [
         {
@@ -34,6 +34,11 @@
             "name": "Hanlin Wang",
             "email": "605231181@qq.com",
             "homepage": "https://wanghanlin.com"
+        },
+        {
+            "name": "Alexander Videnov",
+            "email": "info@avidenov.com",
+            "homepage": "https://avidenov.com"
         }
     ],
     "require": {

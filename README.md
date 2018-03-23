@@ -1,3 +1,8 @@
+# Important
+
+This is a fork of https://github.com/wanghanlin/pusher-push-notifications which suggests changes to the original project https://github.com/laravel-notification-channels/pusher-push-notifications which are not updated.
+
+
 # Pusher push notifications channel for Laravel 5.6
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/pusher-push-notifications.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/pusher-push-notifications)
